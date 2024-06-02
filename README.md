@@ -1,9 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Tanishka Agarwal</h1>
+<br>
 # 💫 About Me:
 <h3 align="center">Frontend fanatic venturing into fullstack. Passionate learner, curious mind. Let's code! 💻🚀</h3> <br>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tanishkaagarwal644) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tanishka-agarwal-/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Tan_agarwal) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Tanishka-Agarwal-the-vuer) 
 
 # 💻 Tech Stack:
@@ -14,7 +15,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tanishka0067&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishka0067&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
