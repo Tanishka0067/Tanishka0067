@@ -3,6 +3,8 @@
 <br>
 <h1> 💫 About Me:</h1>
 <h3>Clean code, bad jokes, and strong coffee — that’s the stack 💻🚀</h3> 
+<h4>On good days I turn TODOs into Ta-Das ✨ (on bad days... into WTFs 🙈)</h4>
+
 <br>
 
 # 🌐 Socials:
