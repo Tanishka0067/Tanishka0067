@@ -2,22 +2,23 @@
 <h1 align="center">Hi 👋, I'm Tanishka Agarwal</h1>
 <br>
 <h2>💫 About Me</h2>
+<ul>
+<li>
+I’m a <strong>Full Stack Developer</strong> who enjoys building complete, scalable systems, from intuitive frontend interfaces to robust backend architecture. I don’t just build features; I think about scalability, performance under load, and efficient system communication.
+</li>
 
-<p>
-I’m a <strong>Full Stack Developer</strong> who enjoys building complete, scalable systems — from intuitive frontend interfaces to robust backend architecture. I don’t just build features; I think about scalability, performance under load, and efficient system communication.
-</p>
-
-<p>
+<li>
 With strong experience in <strong>React, Next.js, Node.js, and modern web technologies</strong>, I focus on writing clean, maintainable code and designing applications that are both user-friendly and technically robust.
-</p>
+</li>
 
-<p>
+<li>
 Currently, I’m strengthening my understanding of <strong>Data Structures & Algorithms</strong> and diving deeper into <strong>System Design</strong> to grow into a high-impact engineer capable of building production-grade systems at scale.
-</p>
+</li>
 
-<p>
+<li>
 I believe in resilience, continuous learning, and shipping real projects that solve real problems.
-</p>
+</li>
+</ul>
 <br>
 
 # 🌐 Socials:
